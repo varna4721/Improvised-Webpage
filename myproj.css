@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(43, 87, 134);
+    color: rgb(250, 231, 215);
+    margin: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body :hover{
+    color: tomato;
+}
